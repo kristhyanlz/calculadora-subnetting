@@ -1,0 +1,10 @@
+D:\Estudios\6\Redes\App_SubNetting\Calc subnetting\Calc subnetting\bin\Debug\Calc subnetting.exe.config
+D:\Estudios\6\Redes\App_SubNetting\Calc subnetting\Calc subnetting\bin\Debug\Calc subnetting.exe
+D:\Estudios\6\Redes\App_SubNetting\Calc subnetting\Calc subnetting\bin\Debug\Calc subnetting.pdb
+D:\Estudios\6\Redes\App_SubNetting\Calc subnetting\Calc subnetting\obj\Debug\Calc subnetting.csproj.AssemblyReference.cache
+D:\Estudios\6\Redes\App_SubNetting\Calc subnetting\Calc subnetting\obj\Debug\Calc_subnetting.Form1.resources
+D:\Estudios\6\Redes\App_SubNetting\Calc subnetting\Calc subnetting\obj\Debug\Calc_subnetting.Properties.Resources.resources
+D:\Estudios\6\Redes\App_SubNetting\Calc subnetting\Calc subnetting\obj\Debug\Calc subnetting.csproj.GenerateResource.cache
+D:\Estudios\6\Redes\App_SubNetting\Calc subnetting\Calc subnetting\obj\Debug\Calc subnetting.csproj.CoreCompileInputs.cache
+D:\Estudios\6\Redes\App_SubNetting\Calc subnetting\Calc subnetting\obj\Debug\Calc subnetting.exe
+D:\Estudios\6\Redes\App_SubNetting\Calc subnetting\Calc subnetting\obj\Debug\Calc subnetting.pdb
